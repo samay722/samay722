@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there 👋# Hi 👋 I'm Samay Parashar
 
-<!--
-**samay722/samay722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech Student | AI & ML Enthusiast  
+💡 Building AI systems and Agentic AI tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Focus
+- Agentic AI Systems
+- RAG (Retrieval Augmented Generation)
+- Deep Learning
+- AI Product Development
+
+---
+
+## 🚀 Projects
+
+🔹 AI Citizen Complaint Intelligence System  
+AI system to analyze consumer complaints using NLP and ML.
+
+🔹 Research Paper AI Assistant  
+Agent that reads research papers and extracts structured insights.
+
+🔹 AI Hallucination Risk Engine  
+Detects hallucinations in large language model outputs.
+
+---
+
+## 🛠 Tech Stack
+
+Python  
+Machine Learning  
+Deep Learning  
+FastAPI  
+LangGraph  
+PostgreSQL  
+Docker  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+Email
