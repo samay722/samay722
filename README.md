@@ -1,13 +1,3 @@
-# 🛠️ GitHub Profile README Template for samay722
-
-Below is a complete, ready-to-use profile README. To use this:
-1. Go to your GitHub account and create a new public repository named **exactly** `samay722`.
-2. Initialize it with a **README.md** (or create it if it doesn't exist).
-3. Copy the markdown content below and paste it into that README.
-
----
-
-```markdown
 <!-- Beautiful Header Banner -->
 <div align="center">
   <img src="https://capsule-render.herokuapp.com/chart/graph?type=wave&color=auto&height=220&section=header&text=Hey,%20I'm%20Samay!%20👋&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" />
@@ -19,8 +9,8 @@ Below is a complete, ready-to-use profile README. To use this:
   *Building the future of intelligent applications, modular frameworks, and LLM-powered agents.*
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:samay@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/samay722"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:samayparashar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/samay722"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
@@ -88,4 +78,3 @@ I'm a passionate software developer specializing in building performance-critica
   <h3>🤝 Connect with me!</h3>
   <p>Feel free to open an issue, submit a pull request, or drop a mail for collaboration proposals.</p>
 </div>
-```
